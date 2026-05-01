@@ -9,7 +9,6 @@ I build systems end to end and break them intentionally to make them secure. My 
 ## 🔧 What I Do
 
 - **🧑‍💻 Full-Stack Development** — APIs, databases, backend & frontend integration.
-- skills - Node.js, Express.js, NestJS, Python, Django, Flask, PHP, Laravel, RESTful APIs, AWS,React, Next.js, Remix, Vue.js, Angular, Redux, TailwindCSS, SCSS, JavaScript (ES6+), TypeScript
 - **🔐 Penetration Testing** — SQL Injection, XSS, auth flaws, logic bugs  
 - **🧪 Security Testing** — Real-world labs, bug bounty methodology  
 - **🛡️ Secure Design** — Turning exploits into fixes  
