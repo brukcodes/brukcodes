@@ -198,7 +198,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Build+it.;Break+it.;Secure+it." alt="mindset typing" />
 </a>
 
-⭐ Focused on clean code, real vulnerabilities, and practical security.
+
 
 </div>
 
