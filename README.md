@@ -1,18 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=200&section=header&text=Bruk%20Getnet&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Penetration%20Tester&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b2e,50:1a2744,75:1e2a4a,100:0d1117&height=220&section=header&text=Bruk%20Getnet&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Penetration%20Tester&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+systems+end+to+end...;...then+break+them+intentionally.;Full-Stack+Engineer+%F0%9F%92%BB;Offensive+Security+Mindset+%F0%9F%9B%A1%EF%B8%8F;Build+it.+Break+it.+Secure+it." alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+systems+end+to+end...;...then+break+them+intentionally.;Full-Stack+Engineer+%F0%9F%92%BB;Offensive+Security+Mindset+%F0%9F%9B%A1%EF%B8%8F;Build+it.+Break+it.+Secure+it." alt="Typing SVG" />
+</p>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=brukcodes&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/badge/status-build%20%E2%86%92%20break%20%E2%86%92%20secure-4ADE80?style=for-the-badge&labelColor=0d1117" alt="status"/>
-
-<br/><br/>
-
+<h2
 <a href="mailto:brukgetnet906@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=red"></a>
 <a href="https://github.com/brukcodes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bruk-getnet">
@@ -20,7 +15,7 @@
 </a>
 </div>
 
-<br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header" width="100%"/>
 
@@ -28,11 +23,11 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top"  border-color: black>
       <h3>🧑‍💻 Full-Stack Development</h3>
       <p>APIs, databases, backend & frontend integration — built clean, built to scale.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top"  border-style="hidden">
       <h3>🔐 Penetration Testing</h3>
       <p>SQL Injection, XSS, auth flaws, and business-logic bugs — found before attackers find them.</p>
     </td>
@@ -62,65 +57,90 @@
 <br/><br/>
 
 </div>
-
-### 🌀 Most Used
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" alt="Django"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" alt="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" alt="TypeScript"/>
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" alt="Sass"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" alt="AWS"/>
+<div align="center">
+<h2>🌀 Most Used</h2> 
+<p>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="48" alt="Python"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" height="48" alt="Django"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" alt="JavaScript"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="48" alt="TypeScript"/>
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" height="48" alt="Sass"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="48" alt="AWS"/>
 </p>
+</div>
 
-<sub>everyday drivers — full toolbox below</sub>
+<h3><sub>everyday drivers — full toolbox below</sub></h3>
 
-<br/>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="14" style="border:none;border-collapse:collapse;">
+  <tr style="border:none;">
+    <td width="50%" valign="top" style="border:none;">
 
 ### 🎨 Frontend Frameworks
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" alt="React"/>
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" alt="Redux"/>
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="48" alt="React"/>
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" height="48" alt="Redux"/>
   <img src="https://skillicons.dev/icons?i=nextjs,vue,angular,gatsby,nuxt,svelte&theme=dark&perline=10" height="48"/>
 </p>
 
-### 🖌️ UI / Styling
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" alt="Sass"/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,threejs,d3&theme=dark&perline=10" height="48"/>
-</p>
+</td>
+    <td width="50%" valign="top" style="border:none;">
 
 ### 🛠️ Backend
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" alt="Django"/>
+<p>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="48" alt="Python"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" height="48" alt="Django"/>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,flask,ruby,wordpress,babel,solidity&theme=dark&perline=12" height="48"/>
 </p>
 
+</td>
+  </tr>
+  <tr style="border:none;">
+    <td width="50%" valign="top" style="border:none;">
+
+### 🖌️ UI / Styling
+<p>
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" height="48" alt="Sass"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,threejs,d3&theme=dark&perline=10" height="48"/>
+</p>
+
+</td>
+    <td width="50%" valign="top" style="border:none;">
+
 ### 🗄️ Databases
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark&perline=10" height="48"/>
 </p>
 
+</td>
+  </tr>
+  <tr style="border:none;">
+    <td width="50%" valign="top" style="border:none;">
+
 ### ☁️ Cloud, DevOps & Tools
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" alt="AWS"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" alt="Docker"/>
+<p>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="48" alt="AWS"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="48" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux,flutter&theme=dark&perline=10" height="48"/>
 </p>
 
+</td>
+    <td width="50%" valign="top" style="border:none;">
+
 ### 💻 Languages
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" alt="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" alt="TypeScript"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" alt="Java"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" alt="C++"/>
+<p>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" alt="JavaScript"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="48" alt="TypeScript"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="48" alt="Python"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="48" alt="Java"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="48" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=php,cs,ruby&theme=dark&perline=10" height="48"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header" width="100%"/>
+</td>
+  </tr>
+</table>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header" width="100%"/>
 <div align="center">
 
 ## 🛡️ Security Expertise
@@ -186,12 +206,3 @@
 
 <div align="center">
 
-## 📊 GitHub Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brukcodes&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=4ADE80&currStreakLabel=58A6FF" height="165"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
